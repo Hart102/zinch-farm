@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.362a32cb.css",
+    "main.js": "/static/js/main.21aaeb78.js",
+    "static/js/787.83f57325.chunk.js": "/static/js/787.83f57325.chunk.js",
+    "static/media/design.webp": "/static/media/design.775321ea91112ad28f8b.webp",
+    "static/media/apple.JPG": "/static/media/apple.064120166a667ee03a51.JPG",
+    "index.html": "/index.html",
+    "main.362a32cb.css.map": "/static/css/main.362a32cb.css.map",
+    "main.21aaeb78.js.map": "/static/js/main.21aaeb78.js.map",
+    "787.83f57325.chunk.js.map": "/static/js/787.83f57325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362a32cb.css",
+    "static/js/main.21aaeb78.js"
+  ]
+}

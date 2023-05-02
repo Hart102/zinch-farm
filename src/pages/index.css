@@ -1,0 +1,10 @@
+.footer{
+    background: #326543;
+    /* background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5)), url('../asserts/images/Apple3.jpg');  */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100% !important;
+}
+
+/* 326543 */
